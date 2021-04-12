@@ -3,8 +3,8 @@
 ## Dokumentasi
 | No |      Nama	 | 	Hasil       |
 |----|---------------|--------------|
-|1   |Calender Widget| ![enter image description here](https://i.postimg.cc/7Zb3Vqnm/Calender-Wigdet.jpg)     |
-|2   |Styles         | ![enter image description here](https://i.postimg.cc/1XJFGdgk/Styles.jpg)	  |
+|1   |Calender Widget|    ![enter image description here](https://i.postimg.cc/FFDkn2Rq/Calender-Wigdet.jpg)     |
+|2   |Styles         | ![enter image description here](https://i.postimg.cc/PrJvG2vq/Styles.jpg)	  |
 
 
 ## Komponen
