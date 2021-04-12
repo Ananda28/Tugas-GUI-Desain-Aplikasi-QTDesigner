@@ -3,7 +3,7 @@
 ## Dokumentasi
 | No |      Nama	 | 	Hasil       |
 |----|---------------|--------------|
-|1   |Calender Widget|    ![enter image description here](https://i.postimg.cc/tgh6gJzv/Calender-Wigdet.jpg)     |
+|1   |Calender Widget| ![enter image description here](https://i.postimg.cc/tgh6gJzv/Calender-Wigdet.jpg)     |
 |2   |Styles         | ![enter image description here](https://i.postimg.cc/J097JcrN/Styles.jpg)	  |
 
 
