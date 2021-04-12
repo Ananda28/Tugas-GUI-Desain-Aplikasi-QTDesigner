@@ -1,7 +1,5 @@
 ![enter image description here](https://pmb.ittelkom-pwt.ac.id/wp-content/uploads/sites/2/2019/10/logo-ittp.png)
 
-Ananda Aulia Rizky ( 19104053)
-
 ## Dokumentasi
 | No |      Nama	 | 	Hasil       |
 |----|---------------|--------------|
